@@ -16,7 +16,9 @@
   
   **Repository**: [jf2978/apm-map](https://github.com/jf2978/apm-map) <br>
   
-  ![](./apm-map-demo.gif)
+  <p align="center">
+  <img width="650" height="400" src="https://media.giphy.com/media/YlMVtcRCJRWTMymUWP/giphy.gif">
+</p>
   
 </details>
 
