@@ -37,3 +37,36 @@
   ![](./java-blockchain-demo.gif)
   
 </details>
+
+## Java Netcat
+
+> stuff about netcat goes here
+
+<details>
+<br> 
+  
+ Some more stuff about why I built this goes here
+ 
+  **Repository**: [jf2978/java-netcat](https://github.com/jf2978/Java-Netcat) <br>
+  
+  ![](./java-blockchain-demo.gif)
+  
+</details>
+
+## Flappy Bird: CU GameDev Edition
+
+> Stuff about flappy bird goes here ...
+
+
+<details>
+<br> 
+  
+ Once upon a time, I was a hardcore gamer. My budding interest in Computer Science naturally led me down the path of learning Unity 3D, designing simple games, and eventually trying to teach others to do the same.
+ 
+  **Repository**: [jf2978/flappy-bird-clone](https://github.com/jf2978/java-blockchain) <br>
+  
+  ![](./java-blockchain-demo.gif)
+  
+</details>
+
+
