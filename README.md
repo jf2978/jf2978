@@ -6,7 +6,7 @@
 
 ## APM Map
 
-> A web application that provides students and early-career profeessionals over 150 resources and a network of mentors to help them break into product management. Check out the live site here.
+> A web application that provides students and early-career professionals over 150 resources and a network of mentors to help them break into product management. Check out the live site here.
 
 
 <details>
