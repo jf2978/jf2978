@@ -16,11 +16,11 @@
   
   **Repository**: [jf2978/apm-map](https://github.com/jf2978/apm-map) <br>
   
-<p align="center">
-  <a href="https://apmmap.co">
-    <img width="900" height="400" src="./apm.svg">
-  </a>
-</p>
+  <p align="center">
+    <a href="https://apmmap.co">
+      <img width="800" height="350" src="./apm.svg">
+    </a>
+  </p>
   
 </details>
 
@@ -38,7 +38,7 @@
   
   <p align="center">
     <a href="https://github.com/jf2978/java-blockchain">
-      <img width="900" height="400" src="./blockchain.svg">
+      <img width="800" height="350" src="./blockchain.svg">
     </a>
   </p>
 </details>
@@ -53,16 +53,10 @@
  Having been in awe during a lecture that demonstrated `nc` -- what felt like to me as the original instant messaging tool -- I thought it'd be a cool exercise to try to recreate it with my working knowledge of sockets. I dove into the project with more questions than answers, but took a bunch of [notes](https://github.com/jf2978/Java-Netcat/blob/master/sockets.notes) and learned a ton. 
  
   **Repository**: [jf2978/java-netcat](https://github.com/jf2978/Java-Netcat) <br>
-  <p align="center">
-    <a href="https://github.com/jf2978/java-netcat">
-      <img width="1000" height="500" src="./nc_server.svg">
-    </a>
-  </p>
-
-
-  <p align="center">
-    <a href="https://github.com/jf2978/java-netcat">
-      <img width="1000" height="500" src="./nc_client.svg">
+    
+   <p align="center">
+    <a href="https://apmmap.co">
+      <img width="800" height="350" src="./netcat.svg">
     </a>
   </p>
   
