@@ -53,15 +53,18 @@
  Having been in awe during a lecture that demonstrated `nc` -- what felt like to me as the original instant messaging tool -- I thought it'd be a cool exercise to try to recreate it with my working knowledge of sockets. I dove into the project with more questions than answers, but took a bunch of [notes](https://github.com/jf2978/Java-Netcat/blob/master/sockets.notes) and learned a ton. 
  
   **Repository**: [jf2978/java-netcat](https://github.com/jf2978/Java-Netcat) <br>
-  
-  <a href="https://github.com/jf2978/java-netcat">
-    <img width="450" height="200" src="./nc_server.svg">
-  </a>
+  <p align="center">
+    <a href="https://github.com/jf2978/java-netcat">
+      <img width="1000" height="500" src="./nc_server.svg">
+    </a>
+  </p>
 
 
-  <a href="https://github.com/jf2978/java-netcat">
-    <img width="450" height="200" src="./nc_client.svg">
-  </a>
+  <p align="center">
+    <a href="https://github.com/jf2978/java-netcat">
+      <img width="1000" height="500" src="./nc_client.svg">
+    </a>
+  </p>
   
 </details>
 
