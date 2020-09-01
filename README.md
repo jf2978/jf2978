@@ -38,7 +38,7 @@
   
   <p align="center">
     <a href="https://github.com/jf2978/java-blockchain">
-      <img width="800" height="350" src="./blockchain.svg">
+      <img width="600" height="350" src="./blockchain.png">
     </a>
   </p>
 </details>
@@ -55,7 +55,7 @@
   **Repository**: [jf2978/java-netcat](https://github.com/jf2978/Java-Netcat) <br>
     
    <p align="center">
-    <a href="https://apmmap.co">
+    <a href="https://github.com/jf2978/Java-Netcat">
       <img width="800" height="350" src="./netcat.svg">
     </a>
   </p>
