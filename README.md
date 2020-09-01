@@ -54,11 +54,14 @@
  
   **Repository**: [jf2978/java-netcat](https://github.com/jf2978/Java-Netcat) <br>
   
-  <p align="center">
-    <a href="https://github.com/jf2978/java-netcat">
-      <img width="900" height="400" src="./netcat.svg">
-    </a>
-  </p>
+  <a href="https://github.com/jf2978/java-netcat">
+    <img width="900" height="400" src="./nc_server.svg">
+  </a>
+
+
+  <a href="https://github.com/jf2978/java-netcat">
+    <img width="900" height="400" src="./nc_client.svg">
+  </a>
   
 </details>
 
