@@ -16,7 +16,7 @@
   
   **Repository**: [jf2978/apm-map](https://github.com/jf2978/apm-map) <br>
   
-<p href="https://apmmap.co" align="center">
+<p align="center">
   <a href="https://apmmap.co">
     <img width="900" height="400" src="./apm.svg">
   </a>
@@ -36,8 +36,11 @@
  
   **Repository**: [jf2978/java-blockchain](https://github.com/jf2978/java-blockchain) <br>
   
-  ![](./java-blockchain-demo.gif)
-  
+  <p align="center">
+    <a href="https://github.com/jf2978/java-blockchain">
+      <img width="900" height="400" src="./blockchain.svg">
+    </a>
+  </p>
 </details>
 
 ## Java Netcat
