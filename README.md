@@ -32,7 +32,7 @@
 <details>
 <br> 
   
- When I'm curious about something, or don't understand it, I try building it. This was just me tinkering in Java ...
+ With my growing interest in the cryptocurrency space and the bitcoin protocol, I decided to take it upon myself to understand the inner workings of a blockchain. Using tutorials scavenged on the internets, my academic knowledge of cryptography, and the Bitcoin Whitepaper itself, I was able to build a simplified local blockchain that utilizes the proof-of-work (PoW) system.
  
   **Repository**: [jf2978/java-blockchain](https://github.com/jf2978/java-blockchain) <br>
   
