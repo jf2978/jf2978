@@ -45,16 +45,20 @@
 
 ## Java Netcat
 
-> stuff about netcat goes here
+> A command-line application that emulates the well-known networking tool, [netcat](https://en.wikipedia.org/wiki/Netcat).
 
 <details>
 <br> 
   
- Some more stuff about why I built this goes here
+ Having been in awe during a lecture that demonstrated `nc` -- what felt like to me as the original instant messaging tool -- I thought it'd be a cool exercise to try to recreate it with my working knowledge of sockets. I dove into the project with more questions than answers, but took a bunch of [notes](https://github.com/jf2978/Java-Netcat/blob/master/sockets.notes) and learned a ton. 
  
   **Repository**: [jf2978/java-netcat](https://github.com/jf2978/Java-Netcat) <br>
   
-  ![](./java-blockchain-demo.gif)
+  <p align="center">
+    <a href="https://github.com/jf2978/java-netcat">
+      <img width="900" height="400" src="./netcat.svg">
+    </a>
+  </p>
   
 </details>
 
