@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 # Why I Build
+- I build to learn -- I could spend hours and days reading about some new topic, but doing something with that new knowledge is what contextualizes it and solidifies my understanding of it
+- I build for others -- when it's not just some curiousity-driven, side project, I build something that I think can help others. Google has shaped the very neurological patterns of nearly every human being. Spotify streams music instantly to hundreds of millions of us. Patreon has empowered over 200,000 creators to do what they love on their own terms. As weird as it is for an engineer to say it, I think scalability is overrated -- I build for the underdog.
 
 # Projects
 
