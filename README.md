@@ -76,7 +76,13 @@
  Once upon a time, I was a hardcore gamer. My budding interest in Computer Science naturally led me down the path of learning Unity 3D, designing simple games, and eventually trying to teach others to do the same.
  
   **Repository**: [jf2978/flappy-bird-clone](https://github.com/jf2978/flappy-bird-clone) <br>
+  <p align="center">
+    <a href="https://github.com/jf2978/flappy-bird-clone">
+      <img width="600" height="350" src="./flappy.png">
+    </a>
+  </p>
   
+  [Play the game here](https://jf2978.itch.io/flappy-bird)!
   
 </details>
 
