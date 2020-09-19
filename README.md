@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 # Why I Build
-- I build to learn -- I could spend hours and days reading about some new topic, but doing something with that new knowledge is what contextualizes it and solidifies my understanding of it
-- I build for others -- when it's not just some curiousity-driven, side project, I build something that I think can help others. Google has shaped the very neurological patterns of nearly every human being. Spotify streams music instantly to hundreds of millions of us. Patreon has empowered over 200,000 creators to do what they love on their own terms. As weird as it is for an engineer to say it, I think scalability is overrated -- I build for the underdog.
+
+- I build to _learn_: I often find myself asking myself questions driven by my curiosity and few things solidify my understanding of a given topic like building something. To me, side projects help me both intimately learn a given subject and enable me to embrace my creativity.
+- I build _for others_: As I expose myself to different facets of building technology and eventually gain expertise in certain domains, I further empower myself to leverage and direct my creativity for others. 
 
 # Projects
 
@@ -74,9 +75,8 @@
   
  Once upon a time, I was a hardcore gamer. My budding interest in Computer Science naturally led me down the path of learning Unity 3D, designing simple games, and eventually trying to teach others to do the same.
  
-  **Repository**: [jf2978/flappy-bird-clone](https://github.com/jf2978/java-blockchain) <br>
+  **Repository**: [jf2978/flappy-bird-clone](https://github.com/jf2978/flappy-bird-clone) <br>
   
-  ![](./java-blockchain-demo.gif)
   
 </details>
 
