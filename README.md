@@ -7,7 +7,7 @@ I'm Jeff — software engineer @ [Mailchimp](https://mailchimp.com/andco/), co-c
 
 Since you're on my GitHub profile, I'm guessing you mainly want to see what I've built so far. Here are the highlights:
 
-### APM Map
+### APM Map 🗺️
 ###### 2020
 
 > A web application that provides students and early-career professionals over 180 resources and a network of mentors to help them break into product management. Check out the live site [here](https://apmmap.co).
@@ -26,7 +26,7 @@ Since you're on my GitHub profile, I'm guessing you mainly want to see what I've
   
 </details>
 
-### A Chain of Blocks
+### A Chain of Blocks 🔗
 ###### 2018
 
 > Using tutorials scavenged on the internet, my working knowledge of cryptography, and the Bitcoin whitepaper, I built a wanna-be blockchain that utilizes proof-of-work (PoW) as its consenus mechanism.
@@ -43,7 +43,7 @@ Since you're on my GitHub profile, I'm guessing you mainly want to see what I've
 
 </details>
 
-### Java Netcat
+### Java Netcat 💬
 ###### 2018
 
 > A command-line application that emulates the well-known networking tool, [netcat](https://en.wikipedia.org/wiki/Netcat). I dove into the project with more questions than answers, but learned a [ton](https://github.com/jf2978/Java-Netcat/blob/master/sockets.notes).
@@ -67,7 +67,7 @@ Since you're on my GitHub profile, I'm guessing you mainly want to see what I've
 
 </details>
 
-### Flappy Bird: CU GameDev Edition
+### Flappy Bird: CU GameDev Edition 🐤
 ###### 2017
 
 > Once upon a time, I was a hardcore gamer. That, alongside my budding interest in Computer Science, naturally led me down the path of learning Unity 3D, designing simple games, and eventually trying to teach others to do the same.
