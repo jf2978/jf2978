@@ -38,10 +38,9 @@ Since you're on my GitHub profile, I'm guessing you mainly want to see what I've
   **Repository**: [jf2978/java-blockchain](https://github.com/jf2978/java-blockchain) <br>
   
   <p align="center">
-    <a href="https://github.com/jf2978/java-blockchain">
-      <img width="600" height="350" src="./blockchain.png">
-    </a>
-  </p>
+  <img src="./blockchain-demo.svg">
+</p>
+
 </details>
 
 ### Java Netcat
@@ -53,13 +52,19 @@ Since you're on my GitHub profile, I'm guessing you mainly want to see what I've
 <br> 
    
   **Repository**: [jf2978/java-netcat](https://github.com/jf2978/Java-Netcat) <br>
+ 
+###### "Server"
     
-   <p align="center">
-    <a href="https://github.com/jf2978/Java-Netcat">
-      <img width="800" height="350" src="./netcat.svg">
-    </a>
-  </p>
-  
+<p align="center">
+  <img src="./nc-server-demo.svg">
+</p>
+
+###### "Client"
+    
+<p align="center">
+  <img src="./nc-client-demo.svg">
+</p>
+
 </details>
 
 ### Flappy Bird: CU GameDev Edition
