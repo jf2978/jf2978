@@ -16,7 +16,7 @@ Since you're on my GitHub profile, I'm guessing you mainly want to see what I've
 <details>
 <br> 
   
-  **Repository**: [jf2978/apm-map](https://github.com/jf2978/apm-map) <br>
+  **Repository**: [apm-map/apm-map](https://github.com/apm-map/apm-map) <br>
   
   <p align="center">
     <a href="https://apmmap.co">
