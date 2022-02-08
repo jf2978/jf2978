@@ -1,7 +1,6 @@
 ### Hey 👋🏼
 
-I'm Jeff — software engineer @ [Mailchimp](https://mailchimp.com/andco/), co-creator of [APM Map](https://apmmap.co) and writer @ [Second Gen](https://secondgen.substack.com/welcome).
-
+My name is Jef. I'm an experienced full-stack engineer and generally an intellectually curious person. I've started dabbling in crypto in 2018, worked as an engineer at [Mailchimp](https://mailchimp.com/), have written a bit about personal finance & wealth, and am now tinkering with web3 -- whether that's as a builder, researcher, writer or all of the above.
 
 # Projects
 
