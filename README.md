@@ -26,23 +26,6 @@ Since you're on my GitHub profile, I'm guessing you mainly want to see what I've
   
 </details>
 
-### A Chain of Blocks 🔗
-###### 2018
-
-> Using tutorials scavenged on the internet, my working knowledge of cryptography, and the Bitcoin whitepaper, I built a wanna-be blockchain that utilizes proof-of-work (PoW) as its consenus mechanism.
-
-
-<details>
-<br> 
- 
-  **Repository**: [jf2978/java-blockchain](https://github.com/jf2978/java-blockchain) <br>
-  
-  <p align="center">
-  <img src="./blockchain-demo.svg">
-</p>
-
-</details>
-
 ### Java Netcat 💬
 ###### 2018
 
