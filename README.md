@@ -1,6 +1,6 @@
 ### Hey 👋🏼
 
-My name is Jef. I'm an experienced full-stack engineer and generally an intellectually curious person. I've started dabbling in crypto in 2018, worked as an engineer at [Mailchimp](https://mailchimp.com/), have written a bit about personal finance & wealth, and am now tinkering with web3 -- whether that's as a builder, researcher, writer or all of the above.
+My name is Jeff. I'm an experienced full-stack engineer and generally an intellectually curious person. I've started dabbling in crypto in 2018, worked as an engineer at [Mailchimp](https://mailchimp.com/), have written a bit about personal finance & wealth, and am now tinkering with web3 -- whether that's as a builder, researcher, writer or all of the above.
 
 # Projects
 
